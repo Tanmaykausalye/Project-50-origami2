@@ -1,0 +1,43 @@
+body{
+
+background:tomato;
+
+}
+
+.menu{
+
+display: flex;
+flex-wrap: wrap;
+/* flex-direction:row; */
+justify-content:space-between;
+background-color: aquamarine;
+}
+
+.message h3{
+
+display: flex;
+justify-content:center;
+text-align: center;
+/* align-items: center; */
+}
+
+.t p{
+
+display: flex;
+ justify-content: center;
+ text-align: center;
+}
+
+.image{
+
+display : flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
+.item{
+
+color:blueviolet
+
+}
